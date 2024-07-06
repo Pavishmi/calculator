@@ -3,7 +3,9 @@ This project is a simple, responsive calculator built using HTML, CSS, and JavaS
 
 ### Technologies Used
 **HTML**: Provides the structure and elements of the calculator, including buttons and display.
+
 **CSS**: Styles the calculator with a modern look, ensuring it is user-friendly and responsive.
+
 **JavaScript**: Implements the functionality of the calculator, including handling user input, performing calculations, and updating the display.
 
 ### Output
